@@ -3,7 +3,7 @@
 <div align="center">
  <div style="background-color: white; width: 80px; height: 80px; display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/fiubalogo.jpg" alt="Logo" width="80" height="80">
+    <img src="/logofiuba.jpg" alt="Logo" width="80" height="80">
   </a>
 </div>
 
