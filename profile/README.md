@@ -1,9 +1,12 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
+ <div style="background-color: #ffffff; width: 80px; height: 80px; display: inline-block;">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="/fiubaLogo.png" alt="Logo" width="80" height="80">
   </a>
+</div>
+
 
   <h3 align="center">Taller de Programacion II </h3>
 
