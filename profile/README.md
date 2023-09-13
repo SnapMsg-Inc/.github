@@ -1,33 +1,22 @@
-
-<br />
 <div align="center">
-  <div  width: 200px; height: 200px; display: flex; align-items: center; justify-content: center;">
-    <a href="https://github.com/othneildrew/Best-README-Template">
-      <img src="/logoFiuba.jpg" alt="Logo" width="200" height="200">
-    </a>
-  </div>
-</div>
+  <img src="/logoFiuba.jpg" alt="Logo" width="200" height="200">
 </div>
 
- <h3 align="center">Taller de Programacion II </h3>
-
-  <p align="center"> Organizacion dedicada al desarrollo del trabajo practico de taller de programacion II.
-   <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Documentacion »</strong></a>
-    <br />
-    <br />
-   </p>
+<div align="center">
+  <h3>Taller de Programación II</h3>
+  <p>Organización dedicada al desarrollo del trabajo práctico de taller de programación II.</p>
+  <p>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Documentación »</strong></a>
+  </p>
 </div>
 
 ## Objetivo del proyecto
 
-<p>Hemos sido encargados por una empresa destacada para desarrollar una aplicación similar a Twitter llamada <strong>SnapMsg</strong>. Esta plataforma digital permitirá a los usuarios compartir ideas, noticias y pensamientos en mensajes cortos, establecer conexiones con otros usuarios y seguir su progreso a lo largo del tiempo.</p>
+Hemos sido encargados por una empresa destacada para desarrollar una aplicación similar a Twitter llamada **SnapMsg**. Esta plataforma digital permitirá a los usuarios compartir ideas, noticias y pensamientos en mensajes cortos, establecer conexiones con otros usuarios y seguir su progreso a lo largo del tiempo.
 
-<p>El objetivo principal de <strong>SnapMsg</strong> es brindar una comunidad interactiva en la cual los usuarios puedan conectarse entre sí, compartir contenido relevante y lograr sus objetivos individuales en un entorno social enriquecedor.</p>
+El objetivo principal de **SnapMsg** es brindar una comunidad interactiva en la cual los usuarios puedan conectarse entre sí, compartir contenido relevante y lograr sus objetivos individuales en un entorno social enriquecedor.
 
-
-### Tecnologias
-
+### Tecnologías
 
 * [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 * [![Gin Gonic](https://img.shields.io/badge/Gin%20Gonic-00B1A0?style=for-the-badge&logo=gin-gonic)](https://github.com/gin-gonic/gin)
@@ -36,13 +25,20 @@
 * [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 * [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
-<!-- LICENSE -->
 ## Licencia
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-<!-- CONTACT -->
 ## Contacto
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
+
+## Licencia
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+## Contacto
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+
