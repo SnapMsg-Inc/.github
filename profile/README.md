@@ -1,12 +1,13 @@
 <a name="readme-top"></a>
 <br />
 <div align="center">
-  <div style="background-color: white; display: flex; align-items: center; justify-content: center;">
+  <div style="background-color: white; width: 38px; height: 38px; display: flex; align-items: center; justify-content: center;">
     <a href="https://github.com/othneildrew/Best-README-Template">
-      <img src="/fiubaLogo.jpg" alt="Logo">
+      <img src="/logofiuba.jpg" alt="Logo" width="38" height="38">
     </a>
   </div>
 </div>
+
 
 
 
