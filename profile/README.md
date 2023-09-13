@@ -1,9 +1,9 @@
 
 <br />
 <div align="center">
-  <div style="background-color: white; width: 370px; height: 100px; display: flex; align-items: center; justify-content: center;">
+  <div  width: 200px; height: 200px; display: flex; align-items: center; justify-content: center;">
     <a href="https://github.com/othneildrew/Best-README-Template">
-      <img src="/logofiuba.jpg" alt="Logo" width="370" height="100">
+      <img src="/logoFiuba.jpg" alt="Logo" width="200" height="200">
     </a>
   </div>
 </div>
