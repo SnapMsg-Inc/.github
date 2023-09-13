@@ -7,11 +7,6 @@
     </a>
   </div>
 </div>
-
-
-
-
-
 </div>
 
  <h3 align="center">Taller de Programacion II </h3>
@@ -24,15 +19,17 @@
    </p>
 </div>
 
-## Description
+## Objetivo del proyecto
 
-Hemos sido encargados por una empresa destacada para desarrollar una aplicación similar a Twitter llamada SnapMsg. Esta plataforma digital permitirá a los usuarios compartir ideas, noticias y pensamientos en mensajes cortos, establecer conexiones con otros usuarios y seguir su progreso a lo largo del tiempo. El objetivo principal de SnapMsg es brindar una comunidad interactiva en la cual los usuarios puedan conectarse entre sí, compartir contenido relevante y lograr sus objetivos individuales en un entorno social enriquecedor.
+<p>Hemos sido encargados por una empresa destacada para desarrollar una aplicación similar a Twitter llamada <strong>SnapMsg</strong>. Esta plataforma digital permitirá a los usuarios compartir ideas, noticias y pensamientos en mensajes cortos, establecer conexiones con otros usuarios y seguir su progreso a lo largo del tiempo.</p>
+
+<p>El objetivo principal de <strong>SnapMsg</strong> es brindar una comunidad interactiva en la cual los usuarios puedan conectarse entre sí, compartir contenido relevante y lograr sus objetivos individuales en un entorno social enriquecedor.</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Tecnologias
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
 * [![Gin Gonic](https://img.shields.io/badge/Gin%20Gonic-00B1A0?style=for-the-badge&logo=gin-gonic)](https://github.com/gin-gonic/gin)
