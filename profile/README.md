@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+
 <br />
 <div align="center">
   <div style="background-color: white; width: 370px; height: 100px; display: flex; align-items: center; justify-content: center;">
@@ -26,8 +26,6 @@
 <p>El objetivo principal de <strong>SnapMsg</strong> es brindar una comunidad interactiva en la cual los usuarios puedan conectarse entre sí, compartir contenido relevante y lograr sus objetivos individuales en un entorno social enriquecedor.</p>
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Tecnologias
 
 
@@ -38,4 +36,13 @@
 * [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 * [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- LICENSE -->
+## Licencia
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+
+<!-- CONTACT -->
+## Contacto
+
+Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
