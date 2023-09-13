@@ -3,12 +3,12 @@
 <div align="center">
  <div style="background-color: #ffffff; width: 80px; height: 80px; display: inline-block;">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="/fiubaLogo.png" alt="Logo" width="80" height="80">
+  <img src="/fiubaLogo.png" alt="Logo" width="80" height="80" style="background-color: #ffffff;">
   </a>
+
 </div>
 
-
-  <h3 align="center">Taller de Programacion II </h3>
+ <h3 align="center">Taller de Programacion II </h3>
 
   <p align="center"> Organizacion dedicada al desarrollo del trabajo practico de taller de programacion II.
    <br />
@@ -22,10 +22,7 @@
 
 Hemos sido encargados por una empresa destacada para desarrollar una aplicación similar a Twitter llamada SnapMsg. Esta plataforma digital permitirá a los usuarios compartir ideas, noticias y pensamientos en mensajes cortos, establecer conexiones con otros usuarios y seguir su progreso a lo largo del tiempo. El objetivo principal de SnapMsg es brindar una comunidad interactiva en la cual los usuarios puedan conectarse entre sí, compartir contenido relevante y lograr sus objetivos individuales en un entorno social enriquecedor.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ### Built With
 
