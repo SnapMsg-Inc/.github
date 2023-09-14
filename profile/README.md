@@ -34,11 +34,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
 
-## Licencia
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-## Contacto
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
