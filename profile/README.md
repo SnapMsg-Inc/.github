@@ -6,7 +6,7 @@
   <h3>Taller de Programación II</h3>
   <p>Organización dedicada al desarrollo del trabajo práctico de taller de programación II.</p>
   <p>
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Documentación »</strong></a>
+    <a href="https://snap-msg-documentation.notion.site/SnapMsg-Grupo-1-4fc4d498fc3540bc839140717f3eb7db"><strong>Documentación »</strong></a>
   </p>
 </div>
 
